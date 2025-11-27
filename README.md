@@ -42,6 +42,15 @@ The project consists of three main components:
 └── requirements.txt # Python dependencies for Backend and Worker
 ```
 
+## Live demo (deployment)
+
+**Frontend UI:**
+- URL: https://mlp-summative-dt9p.onrender.com
+
+**Backend:**
+- URL: https://mlp-summative-backend.onrender.com
+
+- DOCS: https://mlp-summative-backend.onrender.com/docs
 
 ## Quick Start Guide
 

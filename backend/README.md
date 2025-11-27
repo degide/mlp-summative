@@ -88,6 +88,12 @@ celery -A tasks worker --loglevel=info
 celery -A tasks worker --pool=solo --loglevel=info
 ```
 
+## Live demo (deployment)
+
+- URL: https://mlp-summative-backend.onrender.com
+
+- DOCS: https://mlp-summative-backend.onrender.com/docs
+
 ## License
 
 MIT

@@ -56,6 +56,10 @@ npm run dev
 
 The application will usually run on `http://localhost:5173`.
 
+## Live demo (deployment)
+
+URL: https://mlp-summative-dt9p.onrender.com
+
 ##  Features
 
 1. Visualizes the distribution of uploaded images using a bar chart.
