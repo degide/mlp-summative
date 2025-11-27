@@ -90,9 +90,7 @@ celery -A tasks worker --pool=solo --loglevel=info
 
 ## Live demo (deployment)
 
-- URL: https://mlp-summative-backend.onrender.com
-
-- DOCS: https://mlp-summative-backend.onrender.com/docs
+- URL: https://www.bugufi.link/Qamrgs
 
 ## License
 

@@ -52,9 +52,7 @@ The project consists of three main components:
 - URL: https://mlp-summative-dt9p.onrender.com
 
 **Backend:**
-- URL: https://mlp-summative-backend.onrender.com
-
-- DOCS: https://mlp-summative-backend.onrender.com/docs
+- URL: https://www.bugufi.link/Qamrgs
 
 ## Quick Start Guide
 
