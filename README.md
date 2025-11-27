@@ -2,6 +2,10 @@
 
 A full-stack Machine Learning application that classifies images of animals (Cats, Dogs, Snakes) and supports asynchronous model retraining using a background worker pipeline.
 
+## Youtube Demo Video
+
+Link: [https://youtu.be/5pGFCmnxtv4](https://youtu.be/5pGFCmnxtv4)
+
 ## Screenshots
 
 **Dashboard:**
